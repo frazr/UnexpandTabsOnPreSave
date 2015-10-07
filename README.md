@@ -1,4 +1,6 @@
 # UnexpandTabsOnPreSave Sublime Text 3
 
-Add plugin in Tools->New Plugin
-4 spaces will be replaces with tabs before save.
+A Sublime Text plugin to automatically convert spaces to tab when a file is saved.
+
+# Installation
+Create a plugin in Tools->New Plugin, save in Packages\User
